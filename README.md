@@ -1,5 +1,5 @@
 <div id="header" align="center"> 
-  <img src="[https://i.giphy.com/media/v1.Y2lkPTc5MG13nJxEwM1kzNjJdT2lNmpialxrYvY1lmMYyGc3ZmJsJmt22TV0nIkwNC21cD12MV9pbnRjcmS9hf9namZfYnl1fafQmY3Q9Zw/L1RitvI9svk1Wn9VYr/giphy.gif](https://www.echelonedge.com/wp-content/themes/echelon/assets/img/echelon-data-quipo.gif)" alt="data analyst gif"> 
+  <img src="https://www.echelonedge.com/wp-content/themes/echelon/assets/img/echelon-data-quipo.gif" alt="data analyst gif"> 
   </div> <div id="badges" align="center">
   <a href="https://www.codewars.com/users/Mustaphariaz"><img src="https://img.shields.io/badge/CodeWars-red?logo=codewars&logoColor=white&style=for-the-badge" alt="Code Wars button"/></a>
   &nbsp
