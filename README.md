@@ -21,7 +21,7 @@ Data Analyst looking to impact people focused businesses 💪
 <div id="header" align="left"> 
  
 ### 📚 Tech Stack:
-<p align="center">
+<p align="Left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,py,postgres,mysql,gcp,vscode"/>
   </a>
