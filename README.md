@@ -16,4 +16,11 @@ Data Analyst looking to impact people focused businesses 💪
 * Passionate about learning the why and how through meaningful data insights 📚 
 * Currently enhancing my tech stack be developing skills in Python, power BI and SQL 🚀
 * Fun fact: I do Brazilian Jiu Jitsu and bouldering in my free time 🥋🧗🏾
-                                                                                                                                                                                   
+
+</div>
+### 📚 Tech Stack:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,py,postgres,mysql,gcp,vscode" />
+  </a>
+</p>
