@@ -10,14 +10,17 @@
   </div> 
 <h1> Hi, I'm Mustapha! 👋</h1>
 
-</div>
+<div id="header" align="left"> 
+ 
 ### 🙇🏽 About Me:
 Data Analyst looking to impact people focused businesses 💪
 * Currently based in the UK looking for a hybrid role💡 🌟
 * Passionate about learning the why and how through meaningful data insights 📚 
 * Currently enhancing my tech stack be developing skills in Python, power BI and SQL 🚀
 * Fun fact: I do Brazilian Jiu Jitsu and bouldering in my free time 🥋🧗🏾
-</div>
+
+<div id="header" align="left"> 
+ 
 ### 📚 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
