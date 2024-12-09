@@ -3,7 +3,7 @@
 <div id="header" align="center"> 
  
   <a href="https://www.codewars.com/users/MustaphaRiaz"><img src="https://img.shields.io/badge/CodeWars-red?logo=codewars&logoColor=white&style=for-the-badge" alt="Code Wars button"/></a>
-  <a href="www.linkedin.com/in/mustapha-riaz/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linked In Button"/></a>
+  <a href="http://www.linkedin.com/in/mustapha-riaz"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linked In Button"/></a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=henderson907&style=flat-square&color=orange" alt="Views Counter"/>
   </div> 
